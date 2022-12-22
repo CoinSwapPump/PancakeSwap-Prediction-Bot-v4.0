@@ -1,3 +1,4 @@
+# "UPDATED! One click executable signed desktop version added!"
 
 # Coinsw.app - Combination of Useful Bots for Pancakeswap
 ![](https://i.ibb.co/vYccRn8/IMGLUNADUMP.png)
