@@ -3,6 +3,8 @@
 # Coinsw.app - Combination of Useful Bots for Pancakeswap
 ![](https://i.ibb.co/vYccRn8/IMGLUNADUMP.png)
 
+# [YouTube](https://www.youtube.com/watch?v=4Q3tMsW29Xw&t) link added! Link: https://www.youtube.com/watch?v=4Q3tMsW29Xw&t
+
 # **🥞 PancakeSwap Prediction Bot v4.3.9 NEW! (NO PRIVATE KEY REQUIRED!) 🤖**
 
 ## 💡 Ready click-to-run version for Windows 🥞
